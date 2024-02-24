@@ -1,3 +1,5 @@
+// No changes needed in this file.
+
 const path = require('path');
 
 module.exports = (app) =>
