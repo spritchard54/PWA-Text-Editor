@@ -52,5 +52,5 @@ export const getDb = async () => {
   return result?.value;
 };
 
-// Start te database.
+// Start the database.
 initdb();
